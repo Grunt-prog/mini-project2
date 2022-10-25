@@ -1,0 +1,115 @@
+body{
+    background-color: antiquewhite;
+}
+.tajmahal{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.red{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.qutib{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.konark{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.khajuraho{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.hawa{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.hampi{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.gate{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+.fate{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: solid;
+    cursor: pointer;
+}
+footer{
+    width: 99.5vw;
+    margin: 0;
+    position: absolute;
+    background-color:palevioletred;
+    font-size: 20px;
+    left: -10px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background-color: blueviolet;
+}
+.tajmahal:hover{
+    opacity: 0.5;    
+}
+.red:hover{
+    opacity: 0.5;    
+}
+.qutib:hover{
+    opacity: 0.5;    
+}
+.konark:hover{
+    opacity: 0.5;    
+}
+.khajuraho:hover{
+    opacity: 0.5;    
+}
+.hawa:hover{
+    opacity: 0.5;    
+}
+.hampi:hover{
+    opacity: 0.5;    
+}
+.gate:hover{
+    opacity: 0.5;    
+}
+.fate:hover{
+    opacity: 0.5;    
+}
